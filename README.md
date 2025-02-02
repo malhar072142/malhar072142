@@ -37,6 +37,6 @@ At my core, I am driven by curiosity, creativity, and a desire to build technolo
 
 ## 📫 Contact Me  
 📍 **LinkedIn**: (https://www.linkedin.com/in/malharghogare/)  
-💻 **GitHub**: (https://github.com/MalharGhogare)  
+💻 **GitHub**: (https://github.com/malhar072142)  
 📧 **Email**: [ghogare.m@northeastern.edu] 
 
