@@ -1,4 +1,4 @@
-# 👋 Malhar Ghogare | Portfolio
+# Malhar Sham Ghogare | Portfolio
 
 ## 🚀 About Me  
 
