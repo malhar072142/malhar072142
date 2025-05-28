@@ -4,7 +4,7 @@
 
 I’m Malhar Ghogare, a Data Analytics Engineering graduate student at Northeastern University with a deep passion for using data and technology to drive meaningful change. I believe that AI, machine learning, and data analytics have the power to solve real-world challenges, and I’m always eager to explore new ways to make an impact.
 
-I specialize in computer vision, machine learning, and generative AI, with a strong focus on building intuitive, user-friendly applications.
+I specialize in machine learning, and generative AI, with a strong focus on building intuitive, user-friendly applications.
 
 I love collaborating with others—sharing ideas, solving complex problems as a team, and continuously learning from different perspectives.
 
