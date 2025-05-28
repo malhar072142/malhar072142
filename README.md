@@ -20,17 +20,17 @@ At my core, I am driven by curiosity, creativity, and a desire to build technolo
 ## 🛠 Technical Skills  
 
 ### **Languages & Frameworks**  
-✅ Python | C++ | SQL | R | Java | JavaScript  
+✅ Python | SQL | Java | JavaScript  
 ✅ PyTorch | TensorFlow | Scikit-learn  
 
 ### **Data Ecosystem**  
 ✅ MySQL | MongoDB | DynamoDB | Hadoop | Redshift | Apache Spark | Hive | Snowflake  
 
 ### **Software & Cloud**  
-✅ Git | AWS | JIRA | Docker | Kubernetes  
+✅ Git | AWS | JIRA   
 
 ### **Orchestration & Integration**  
-✅ Airflow | Jenkins | LangChain  
+✅ Kubernetes | LangChain  
 
 ### **BI & Analytics**  
 ✅ Power BI | Tableau | Athena  
