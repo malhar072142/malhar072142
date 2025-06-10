@@ -8,7 +8,7 @@ I specialize in machine learning, and generative AI, with a strong focus on buil
 
 I love collaborating with others—sharing ideas, solving complex problems as a team, and continuously learning from different perspectives.
 
-At my core, I am driven by curiosity, creativity, and a desire to build technology that makes a difference. If you share a similar enthusiasm for AI, data, and problem-solving, I’d love to connect and collaborate! 🚀
+At my core, I am driven by curiosity, creativity, and a desire to build technology that makes a difference. If you share a similar enthusiasm for AI, data, and problem-solving, I’d love to connect and collaborate!
 
 ## 🔍 Areas of Expertise  
 - **AI & Machine Learning**: Deep learning models for **computer vision** & **NLP** (EfficientNet, BERT, LSTM)  
@@ -27,7 +27,7 @@ At my core, I am driven by curiosity, creativity, and a desire to build technolo
 ✅ MySQL | MongoDB | DynamoDB | Hadoop | Redshift | Apache Spark | Hive | Snowflake  
 
 ### **Software & Cloud**  
-✅ Git | AWS | JIRA   
+✅ Git | AWS
 
 ### **Orchestration & Integration**  
 ✅ Kubernetes | LangChain  
